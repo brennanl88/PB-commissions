@@ -1,0 +1,5 @@
+{
+  "name": "PB Commissions Tracker",
+  "description": "An interactive, installable app for employees to track commissions and for admins to manage payroll. Works offline.",
+  "requestFramePermissions": []
+}

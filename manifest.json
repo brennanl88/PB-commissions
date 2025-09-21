@@ -1,0 +1,16 @@
+{
+  "short_name": "Commissions",
+  "name": "Commission Control",
+  "description": "An interactive, installable app for employees to track commissions and for admins to manage payroll.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
